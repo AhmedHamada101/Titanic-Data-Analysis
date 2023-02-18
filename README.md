@@ -1,3 +1,4 @@
 # Titanic-Data-Analysis
 
-* Notebook in Colab: https://colab.research.google.com/drive/1CGapuwzz0lvYgAMcuZFqqx_tHRqQqZ3k?usp=sharing
+
+###  You can see my notebook in [Kaggle] (https://www.kaggle.com/code/ahmedmohammedhamada/titanic-analysis)
